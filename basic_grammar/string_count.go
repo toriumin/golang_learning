@@ -1,4 +1,4 @@
-package main
+package basic_grammar
 
 import "fmt"
 import "unicode/utf8"

@@ -1,4 +1,4 @@
-package main
+package basic_grammar
 
 // main パッケージの中にある fmt 関数
 // 使う関数しかインポートしちゃだめ
